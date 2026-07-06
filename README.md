@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Nama Kamu 👋</h1>
-<p align="center">Mahasiswa · Kota, Negara</p>
+<h1 align="center">Hi, I'm Shiva Andriyana 👋</h1>
+<p align="center">Student · Balikapapan, Indonesia</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/username-kamu/"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -9,7 +9,7 @@
 
 <br/>
 
-Mahasiswa yang sedang belajar pengembangan software dan tertarik pada [isi minat kamu, mis: web development, data science, dll]. Suka membangun proyek kecil untuk latihan dan terus belajar hal baru.
+A student studying software development with an interest in [insert your interest, e.g., web development, data science, etc.]. I enjoy building small projects for practice and continuously learning new things.
 
 <br/>
 
@@ -26,10 +26,10 @@ Mahasiswa yang sedang belajar pengembangan software dan tertarik pada [isi minat
 
 <br/>
 
-## Sedang dipelajari
+## Currently Study
 
-`Bahasa/tools 1` &nbsp;·&nbsp; `Bahasa/tools 2` &nbsp;·&nbsp; `Bahasa/tools 3` &nbsp;·&nbsp; `Bahasa/tools 4`
+`Language/tools 1` &nbsp;·&nbsp; `Language/tools 2` &nbsp;·&nbsp; `Language/tools 3` &nbsp;·&nbsp; `Language/tools 4`
 
 <br/>
 
-<p align="center"><sub>Terima kasih sudah mampir 🌱</sub></p>
+<p align="center"><sub>Thanks for dropping by 🌱</sub></p>
