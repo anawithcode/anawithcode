@@ -13,17 +13,21 @@ A student studying software development with an interest in Artificial Intellige
 
 <br/>
 
-## Stats
-
+### `// github stats`
+ 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=anawithcode&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anawithcode&layout=compact&theme=default&hide_border=true&hide=html" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=anawithcode&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anawithcode&layout=compact&theme=dark&hide_border=true&hide=html" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=anawithcode&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=anawithcode&theme=dark&hide_border=true" />
 </p>
-
+<br/>
+### `// contribution graph`
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anawithcode/anawithcode/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <br/>
 
 ## Currently Study
