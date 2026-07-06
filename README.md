@@ -2,7 +2,7 @@
 <p align="center">Student · Balikapapan, Indonesia</p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/shiva-andriyana-8065293ba/"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shiva-andriyana-8065293ba/"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shivaandriyanaaa@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/shvndryn/"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
