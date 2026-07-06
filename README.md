@@ -30,7 +30,6 @@ A student studying software development with an interest in Artificial Intellige
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=3776AB)
 
 <br/>
