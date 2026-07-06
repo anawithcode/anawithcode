@@ -23,6 +23,7 @@ A student studying software development with an interest in Artificial Intellige
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=anawithcode&theme=dark&hide_border=true" />
 </p>
 <br/>
+
 ### `// contribution graph`
  
 <p align="center">
@@ -37,5 +38,7 @@ A student studying software development with an interest in Artificial Intellige
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=3776AB)
 
 <br/>
+
+
 
 <p align="center"><sub>Thanks for dropping by 🌱</sub></p>
